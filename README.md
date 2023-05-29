@@ -27,6 +27,7 @@ Users should be able to:
 ### Screenshots
 
 Desktop Site:
+
 ![desktop site preview](./images/site-preview-desktop.png)
 
 Mobile Site:
