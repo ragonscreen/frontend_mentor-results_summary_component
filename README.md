@@ -53,7 +53,6 @@ CSS does not support transitions for linear gradient. To get around this, I used
 ```css
 #summary__continue {
   background: var(--text__accent);
-  transition: background 1s;
   z-index: 100;
   position: relative;
 }
