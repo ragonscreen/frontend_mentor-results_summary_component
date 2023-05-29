@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Screenshots
 
-Desktop Site:
+- Desktop Site:
 
 ![desktop site preview](./images/site-preview-desktop.png)
 
-Mobile Site:
+- Mobile Site:
 
 ![mobile site preview](./images/site-preview-mobile.png)
 
