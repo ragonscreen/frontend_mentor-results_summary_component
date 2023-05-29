@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-CSS does not support transitions for linear gradient. To get around this, I used a pseudo element (::before) beneath my button element, with an opacity of 0 which contained the gradient I wanted to transition to. Then I added a transition to the opacity from 0 to 1 at hover and focus states.
+CSS does not support transitions for `linear-gradient`. To get around this, I used a pseudo element (`::before`) beneath my button element, with an `opacity` of 0 which contained the gradient I wanted to transition to. Then I added a `transition` to the opacity from 0 to 1 at `hover` and `focus` states.
 
 ```html
 <button id="summary__continue">Continue</button>
