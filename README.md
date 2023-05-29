@@ -91,7 +91,7 @@ CSS does not support transitions for `linear-gradient`. To get around this, I us
 
 ### Useful resources
 
-- [Animating CSS Gradients, using only CSS](https://medium.com/@dave_lunny/animating-css-gradients-using-only-css-d2fd7671e759){:target="_blank"} - This helped me understand how to implement a transition with linear gradients.
+- [Animating CSS Gradients, using only CSS](https://medium.com/@dave_lunny/animating-css-gradients-using-only-css-d2fd7671e759) - This helped me understand how to implement a transition with linear gradients.
 
 ## Author
 
