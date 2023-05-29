@@ -30,6 +30,7 @@ Desktop Site:
 ![desktop site preview](./images/site-preview-desktop.png)
 
 Mobile Site:
+
 ![mobile site preview](./images/site-preview-mobile.png)
 
 ### Links
