@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/ragonscreen/frontend_mentor-results_summary_component/tree/main)
+- [Solution URL](https://github.com/ragonscreen/frontend_mentor-results_summary_component)
 
 ## My process
 
